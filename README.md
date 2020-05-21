@@ -7,7 +7,7 @@ I created this image due to I couldn't get support for IKEA's Tradfri working (l
 Nodes installed in Nodered:
 
         "node-red-contrib-arp": "0.0.2",
-	"node-red-contrib-homekit-bridged": "1.0.4",
+        "node-red-contrib-homekit-bridged": "1.0.4",
 	"node-red-contrib-influxdb": "0.4.0",
         "node-red-contrib-arp": "0.0.2",
         "node-red-contrib-better-sonos": "^0.1.21",
