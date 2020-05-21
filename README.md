@@ -8,7 +8,7 @@ Nodes installed in Nodered:
 
         "node-red-contrib-arp": "0.0.2",
         "node-red-contrib-homekit-bridged": "1.0.4",
-	"node-red-contrib-influxdb": "0.4.0",
+        "node-red-contrib-influxdb": "0.4.0",
         "node-red-contrib-arp": "0.0.2",
         "node-red-contrib-better-sonos": "^0.1.21",
         "node-red-contrib-bigtimer": "~2.3.1",
